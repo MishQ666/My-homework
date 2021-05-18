@@ -9,3 +9,4 @@ Today, their platform Shopify hosts over 325,000 shops for individual 
 ## Business Activiies
 Unlike a lot of companies, Shopify was incentivized not just to sell their product to customers, but also to help customers become more successful on the platform. The more money customers made, the more money Shopify made. This drove Shopify to help their users become better merchants, and that’s the biggest reason they’ve grown to where they are today.
 
+asdasd
