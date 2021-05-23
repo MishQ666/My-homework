@@ -62,9 +62,9 @@ Services include new finance functions to help manage cash flow, but also in-sto
 Shopify has managed to challenge Amazon not by going head to head, but by empowering small retailers and entrepreneurs to take control over their businesses. By removing technical barriers through the provision of affordable and user friendly plugins, Shopify allowed SMBs to go direct to consumer and to build their own brands removing their dependence on a marketplace like Amazon. Solving SMBs’ operational pain points is a great value proposition, but definitely not a winning one as a lot of other companies were offering similar services to SMBs at the time 
 From the very humble beginning of the . Shopify has now turned into a platform that hosts over $325,000 shops for individual sellers that generates over $20million in revenue every month. 
 
-![s](market-share.jpg)
+![s](2nd.jpg)
 
-Shopify firmly positioned the third place in e-commerce market share in 2021 with 10.98%. As of late March 2021, the million-plus businesses that operate on this platform have generated $319 billion. 
+Shopify firmly positioned the fifth place in e-commerce market share in 2021 with 3.69%. As of late March 2021, the million-plus businesses that operate on this platform have generated $319 billion. 
 
 Although not the biggest in terms of market share, Shopify is a true e-commerce juggernaut and has experienced record growth over the past few years. there are currently over one million businesses that use Shopify, spanning 175 different countries that collectively to date have contributed to $319 billion in global activity. 
 
